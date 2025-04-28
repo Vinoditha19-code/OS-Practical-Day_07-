@@ -1,0 +1,43 @@
+Q1. get the calender and date
+
+Q2. Get the students name and marks for the 3 subject from user then calculate output
+   Enter your name : 
+   Enter the marks for subject1 : 80
+   Enter the marks for subject2 : 90
+   Enter the marks for subject3 : 70
+   total: 240
+   average: 80
+   
+Q3. Create calculator with arithmetic operations
+ouput: 
+   Enter the 1st number: 4
+   Enter the second number: 2
+   summation : 6
+   subtraction : 2
+   division: 2
+   multiplication: 8 
+   
+Q4. Get the days based on the user input number
+out put:- 
+Enter number : 5
+
+Q5. Verify whether your username is correct or not (use ypur name as a input )
+output :- 
+	Enter your name: 
+	Mino
+	user name is correct
+	
+	Enter your name:
+	Mino
+	User name is incorrect
+	
+Q6. Out put: Enter 2 numbers: 
+	7 5 
+	& is greater than 5
+
+	Enter 2 numbers:
+	1 9 
+	1 is less than 9
+	
+
+   
